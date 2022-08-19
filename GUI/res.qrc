@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>main_ico.ico</file>
+    <file>return.png</file>
+    <file>options.png</file>
+    <file>serch.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+  </qresource>
+</RCC>
